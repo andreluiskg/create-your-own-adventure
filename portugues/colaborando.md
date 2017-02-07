@@ -1,11 +1,12 @@
-VocÃª Ã© usuÃ¡rio de um aplicativo open source de Android, o qual usa o Github para manter o cÃ³digo. Durante o uso do
-aplicativo, vocÃª detecta um bug.
+Você é usuário de um aplicativo open source de Android, o qual usa o Github para manter o código. Durante o uso do aplicativo, você detecta um bug.
 
-VocÃª:
+Você:
+
+[Estuda Android para tentar corrigir o código](estuda-android/estudando-android.md)
 
 [Faz um canal no youtube para falar de Minecraft](youtube/minecraft.md)
 
-[Chora descontroladamente atÃ© que sua fada madrinha aparece e te dÃ¡ 1 desejo](fada/fada.md)
+[Chora descontroladamente até que sua fada madrinha aparece e te dÃ¡ 1 desejo](fada/fada.md)
 
 [Caguei, vou ver um video no xvideos](xvideos/xvideos.md)
 
